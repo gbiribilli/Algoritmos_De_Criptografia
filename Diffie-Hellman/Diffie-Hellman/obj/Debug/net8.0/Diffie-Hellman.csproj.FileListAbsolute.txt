@@ -1,0 +1,14 @@
+F:\Diffie-Hellman\Diffie-Hellman\bin\Debug\net8.0\Diffie-Hellman.exe
+F:\Diffie-Hellman\Diffie-Hellman\bin\Debug\net8.0\Diffie-Hellman.deps.json
+F:\Diffie-Hellman\Diffie-Hellman\bin\Debug\net8.0\Diffie-Hellman.runtimeconfig.json
+F:\Diffie-Hellman\Diffie-Hellman\bin\Debug\net8.0\Diffie-Hellman.dll
+F:\Diffie-Hellman\Diffie-Hellman\bin\Debug\net8.0\Diffie-Hellman.pdb
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\Diffie-Hellman.GeneratedMSBuildEditorConfig.editorconfig
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\Diffie-Hellman.AssemblyInfoInputs.cache
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\Diffie-Hellman.AssemblyInfo.cs
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\Diffie-Hellman.csproj.CoreCompileInputs.cache
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\Diffie-Hellman.dll
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\refint\Diffie-Hellman.dll
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\Diffie-Hellman.pdb
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\Diffie-Hellman.genruntimeconfig.cache
+F:\Diffie-Hellman\Diffie-Hellman\obj\Debug\net8.0\ref\Diffie-Hellman.dll
